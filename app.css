@@ -14,8 +14,11 @@ h1 {
 }
 
 form input[type="text"] {
-    border-radius: 5px;
+    border-radius: 0.3rem;
     text-align: center;
+    background: none;
+    border: 1px groove white;
+    color: white;
 }
 
 #movieList {
